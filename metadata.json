@@ -1,0 +1,5 @@
+{
+  "name": "Minutes in Action",
+  "description": "A streamlined application for taking, organizing, and distributing board meeting minutes with features for agenda building, live note-taking, action item tracking, and decision logging.",
+  "requestFramePermissions": []
+}
